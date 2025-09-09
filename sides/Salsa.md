@@ -4,10 +4,13 @@
 
 - tomato
 - onion
--
+- garlic
+- salt
+- peber
+- chili
 
 
 ## Instructions
 
 - chop
-- chop
+- mix
